@@ -2,10 +2,10 @@ id: 815dd45adde84865bb9236c5e7ea18ab
 annotation_type: pagination
 revision: '00001'
 annotations:
-- id: 01e079e56f264b15aaa84275e34fdc4d
-  span:
-    start: 0
-    end: 762
-  page_index: 1a
-  page_info: null
-  reference: I00KG038800001
+  01e079e56f264b15aaa84275e34fdc4d:
+    page_index: 1a
+    page_info: null
+    reference: I00KG038800001
+    span:
+      start: 0
+      end: 762
